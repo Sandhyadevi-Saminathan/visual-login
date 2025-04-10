@@ -7,7 +7,7 @@ import {
   import { FaCircle } from 'react-icons/fa';
   import { MdOutlineFileDownload } from "react-icons/md";
 import { BellIcon, MoonIcon, Star} from 'lucide-react';
-import { ChevronsDown, ChevronsUp, ChevronDown, TrendingUp, TrendingDown } from "lucide-react";
+import { ChevronsDown, ChevronsUp, ChevronDown, TrendingUp } from "lucide-react";
 import { useEffect, useState } from 'react';
   const pieData = [
     { name: 'United States', value: 52.1 },
